@@ -116,10 +116,9 @@ For tools that integrate niri with other system components or automate tasks.
 - [Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell created with Ignis.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell.
 - [iNiR](https://github.com/snowarch/iNiR) - [end-4's quickshell config](https://github.com/end-4/dots-hyprland) modified to work with niri.
-- [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - Port of caelestia dots Quickshell setup for niri.
 - [Noctalia](https://github.com/Ly-sec/Noctalia) - A sleek and minimal desktop shell built with Quickshell.
 - [qml-niri](https://github.com/imiric/qml-niri) - A QML plugin for interacting with niri via its IPC protocol.
-
+- [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - Port of caelestia dots Quickshell setup for niri. (this project has not been actively maintained for over 6 months)
 ## DE Integration
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
 - [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings), while its modules can also be used standalone in `niri-session`.

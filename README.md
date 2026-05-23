@@ -112,6 +112,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
 - [Ironbar](https://github.com/JakeStanger/ironbar) - A customisable Wayland GTK bar written in Rust.
 - [Niri Taskbar](https://github.com/LawnGnome/niri-taskbar) - Provides a Waybar taskbar module for niri.
+- [niri-ribbon](https://github.com/ews/noctalia-niri-ribbon) - A viewport mini-map widget for the Noctalia shell that tracks off-screen windows in real-time.
 - [niri_window_buttons](https://github.com/adelmonte/niri_window_buttons) - A Waybar module for displaying and managing traditional window buttons.
 - [vibepanel](https://github.com/prankstr/vibepanel) - A GTK4 panel for Wayland with integrated notifications, OSD, and quick settings.
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on GTK.

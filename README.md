@@ -98,6 +98,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [arbtt-capture-wl](https://github.com/franzos/arbtt-capture-wl) - Time tracker utility [arbtt](https://github.com/nomeata/arbtt) ported to Wayland.
 - [niri-cwd](https://github.com/nouritsu/niri-cwd) - A program to print the focused window's working directory.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
+- [niri-screenshot-tools](https://codeberg.org/whenthesilly/niri-screenshot-tools) - A program that sends screenshots taken in niri to an annotator or uploads them to a server.
 - [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
 - [nirimod](https://github.com/srinivasr/nirimod) - A visual, interactive configuration interface.
 

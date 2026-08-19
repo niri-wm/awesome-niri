@@ -91,6 +91,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [niriSKL.nvim](https://github.com/MahouShoujoMivutilde/niriSKL.nvim) - A Neovim plugin that maintains your latin keyboard layout of choice for NORMAL mode and restores the layout you had when in INSERT mode.
 - [Stasis](https://github.com/saltnpepper97/stasis) - A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.
 - [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) based on the focused window.
+- [utsushot](https://github.com/xevrion/utsushot) - Supersampled Wayland screenshots via a temporary high-resolution phantom output.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 
 ### Miscellaneous

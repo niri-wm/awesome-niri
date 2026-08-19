@@ -54,6 +54,7 @@ For utilities that assist in managing windows and workspaces.
 - [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager.
 - [niri-empty](https://codeberg.org/lunahd/niri-empty) - Execute a shell command when focusing an empty workspace.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces — similar to "sticky windows" in other compositors.
+- [niri-pip](https://github.com/t1ktakdev/niri-pip) - Sticky Picture-in-Picture and floating-window control.
 - [niri-ror](https://github.com/boomskats/niri-ror) - Focuses an app if it's open, or starts a new instance if not. With advanced window matching and multi-instance cycling.
 - [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support.
 - [niri-scratchpad-rs](https://github.com/argosnothing/niri-scratchpad-rs) - Dynamic scratchpads.

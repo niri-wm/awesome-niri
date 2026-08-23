@@ -87,6 +87,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
 - [niri-autoselect-portal](https://codeberg.org/debugloop/niri-autoselect-portal) - Always autoselect the dynamic cast target without any prompts.
 - [niri-screensaver](https://github.com/jfreed-dev/niri-screensaver) - Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.
+- [niricfg](https://github.com/Eeems/niricfg) - Monitor and animation configuration utility for niri.
 - [nirilayout](https://github.com/calico32/nirilayout) - Quickly switch output configuration between different layouts.
 - [nirimon](https://github.com/stepbrobd/nirimon) - A TUI monitor configuration tool with visual layout, drag-and-drop, and profile management (profile schema compliant with hyprmon).
 - [niriSKL.nvim](https://github.com/MahouShoujoMivutilde/niriSKL.nvim) - A Neovim plugin that maintains your latin keyboard layout of choice for NORMAL mode and restores the layout you had when in INSERT mode.

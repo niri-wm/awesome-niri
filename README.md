@@ -131,6 +131,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell.
 - [iNiR](https://github.com/snowarch/iNiR) - [end-4's quickshell config](https://github.com/end-4/dots-hyprland) modified to work with niri.
 - [Niri GTK](https://github.com/sameoldlab/niri-gtk) - GTK bindings to niri IPC.
+- [niriqml](https://github.com/alexindigo/niriqml) — Reactive Qt/QML bindings for niri IPC, with typed models, event signals, and asynchronous actions.
 - [Noctalia](https://github.com/Ly-sec/Noctalia) - A sleek and minimal desktop shell built with Quickshell.
 - [qml-niri](https://github.com/imiric/qml-niri) - A QML plugin for interacting with niri via its IPC protocol.
 

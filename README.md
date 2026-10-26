@@ -122,9 +122,9 @@ For tools that integrate niri with other system components or automate tasks.
 - [waybar-niri-windows](https://github.com/calico32/waybar-niri-windows) - A module for Waybar that displays a focus indicator for the current workspace.
 
 ## Custom Shells
-- [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
 - [Delta Shell](https://github.com/Sinomor/delta-shell) - A desktop shell based on AGS with many features.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for Wayland compositors supporting wayland-layer-shell.
+- [Dux Shell](https://github.com/duxlabs-dev/dux-shell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
 - [Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell created with Ignis.
 - [Glimpse](https://github.com/alex-oleshkevich/glimpse) - A niri-first Wayland desktop shell toolkit with a panel, wallpaper, lock screen, night light, and idle management.
 - [GPUi Shell](https://github.com/andre-brandao/gpui-shell) - A GPUI based shell written in Rust.

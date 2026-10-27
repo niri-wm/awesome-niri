@@ -86,6 +86,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [kunai](https://github.com/mikkurogue/kunai) - Automatically switch keyboard layouts based on which physical keyboard is being used.
 - [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
 - [niri-autoselect-portal](https://codeberg.org/debugloop/niri-autoselect-portal) - Always autoselect the dynamic cast target without any prompts.
+- [niri-punto](https://github.com/qam1s/niri-punto) - Keyboard layout corrector: converts text typed in the wrong layout and switches the layout to match.
 - [niri-screensaver](https://github.com/jfreed-dev/niri-screensaver) - Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.
 - [nirilayout](https://github.com/calico32/nirilayout) - Quickly switch output configuration between different layouts.
 - [nirimon](https://github.com/stepbrobd/nirimon) - A TUI monitor configuration tool with visual layout, drag-and-drop, and profile management (profile schema compliant with hyprmon).

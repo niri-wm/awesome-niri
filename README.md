@@ -62,6 +62,7 @@ For utilities that assist in managing windows and workspaces.
 - [nirimap](https://github.com/alexandergknoll/nirimap) - A minimal workspace minimap overlay.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces.
 - [oniri](https://github.com/Antiz96/oniri) - A tool that automatically maximizes the only window in a workspace.
+- [uwoniri](https://github.com/jbeaurivage/uwoniri) - Dynamic window resizing optimized for ultrawide monitors
 - [wl-freeze](https://github.com/Zerodya/wl-freeze) - Utility to suspend a game process and other programs.
 
 ### Session Management

@@ -101,6 +101,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-screenshot-tools](https://codeberg.org/whenthesilly/niri-screenshot-tools) - A program that sends screenshots taken in niri to an annotator or uploads them to a server.
 - [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
+- [niri-tracker](https://github.com/Qiumix/niri-tracker) - A screen time tracker that credits the CLI program running in a terminal rather than the terminal itself, with idle detection and video playback awareness.
 - [nirimod](https://github.com/srinivasr/nirimod) - A visual, interactive configuration interface.
 
 ## Custom Shaders

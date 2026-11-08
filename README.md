@@ -110,6 +110,7 @@ For tools that integrate niri with other system components or automate tasks.
 ## Bars and Widgets
 - [ashell](https://github.com/MalpenZibo/ashell) - A ready to go Wayland status bar.
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
+- [bare](https://github.com/kupospelov/bare) - A lightweight vertical bar for Wayland compositors.
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A Rust binary that outputs workspace information from niri-ipc to be consumed by eww.
 - [i3bar-river](https://github.com/MaxVerevkin/i3bar-river) - A port of i3bar for Wayland compositors, to be used with something like [i3status-rust](https://github.com/greshake/i3status-rust).
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.

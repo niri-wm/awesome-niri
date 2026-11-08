@@ -5,3 +5,4 @@
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - 404.
 - [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - unmaintained.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - no longer maintained.
+- [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - it is slow so i added a [fork](https://github.com/Lyndeno/vim-niri-nav-rs) built in rust that is10x faster
